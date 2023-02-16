@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: .gitignore
+  checksum: 039e51b7857f18f0f1ae91b511fd948b3a793206e617108235c6da71d054ad8a
+- filename: package-lock.json
+  checksum: dad4583f651efe7c8607602650edd5825a7f8fde7afedaa1e75ed9fdbdead01d
+version: ""
